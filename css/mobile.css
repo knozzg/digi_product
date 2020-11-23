@@ -1,0 +1,29 @@
+@media (max-width: 600px) {
+  body{
+    /* background: yellow; */
+  }
+  .products{
+    display: inherit;
+    height: auto;
+    max-height: inherit;
+  }
+  .product{
+    margin-top: auto;
+  }
+  .main_section{
+    padding: 4%;
+  }
+
+  .mentions{
+    display: inherit;
+    height: auto;
+  }
+  .mention{
+    margin-top: auto;
+  }
+  .footer_section{
+    padding: 4%;
+  }
+
+
+}
